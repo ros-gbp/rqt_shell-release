@@ -1,0 +1,12 @@
+Source: ros-lunar-rqt-shell
+Section: misc
+Priority: extra
+Maintainer: Dorian Scholz <scholz@sim.tu-darmstadt.de>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://wiki.ros.org/rqt_shell
+Standards-Version: 3.9.2
+
+Package: ros-lunar-rqt-shell
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-lunar-python-qt-binding (>= 0.2.19), ros-lunar-qt-gui, ros-lunar-qt-gui-py-common, ros-lunar-rqt-gui, ros-lunar-rqt-gui-py
+Description: rqt_shell is a Python GUI plugin providing an interactive shell.
