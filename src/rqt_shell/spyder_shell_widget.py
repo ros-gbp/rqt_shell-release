@@ -106,7 +106,7 @@ class SpyderShellWidget(ExternalShellBase):
 
         if script_path:
             options = [
-                "-c 'source %s; /bin/bash -i'" % os.path.abspath(script_path)])
+                "-c 'source %s; /bin/bash -i'" % os.path.abspath(script_path)]
         else:
             options = ['-i']
         self.process.start('/bin/bash', options)
