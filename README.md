@@ -1,3 +1,26 @@
+## rqt_shell (melodic) - 0.4.9-0
+
+The packages in the `rqt_shell` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_shell --track melodic --rosdistro melodic` on `Wed, 09 May 2018 17:32:17 -0000`
+
+The `rqt_shell` package was released.
+
+Version of package(s) in repository `rqt_shell`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_shell.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.9-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## rqt_shell (lunar) - 0.4.9-0
 
 The packages in the `rqt_shell` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --track lunar --rosdistro lunar -y rqt_shell` on `Thu, 07 Sep 2017 10:08:57 -0000`
