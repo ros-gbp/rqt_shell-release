@@ -1,3 +1,26 @@
+## rqt_shell (noetic) - 0.4.9-1
+
+The packages in the `rqt_shell` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_shell` on `Tue, 17 Mar 2020 18:27:35 -0000`
+
+The `rqt_shell` package was released.
+
+Version of package(s) in repository `rqt_shell`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_shell.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_shell (melodic) - 0.4.9-0
 
 The packages in the `rqt_shell` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_shell --track melodic --rosdistro melodic` on `Wed, 09 May 2018 17:32:17 -0000`
