@@ -2,6 +2,11 @@
 Changelog for package rqt_shell
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.10 (2020-03-17)
+-------------------
+* use conditional dependencies for Python 3 (`#10 <https://github.com/ros-visualization/rqt_shell/issues/10>`_)
+* bump CMake minimum version to avoid CMP0048 warning
+
 0.4.9 (2017-09-07)
 ------------------
 * Fixed syntax error when using a startup script with spyder shell
