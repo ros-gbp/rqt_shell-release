@@ -2,6 +2,14 @@
 Changelog for package rqt_shell
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.11 (2021-04-21)
+-------------------
+* Merge pull request `#13 <https://github.com/ros-visualization/rqt_shell/issues/13>`_ from ros-visualization/sloretz-update-maintainer
+  Update maintainer in package.xml
+* Update maintainer in package.xml
+* fix shebang line for python3 (`#12 <https://github.com/ros-visualization/rqt_shell/issues/12>`_)
+* Contributors: Michael Carroll, Mikael Arguedas, Shane Loretz
+
 0.4.10 (2020-03-17)
 -------------------
 * use conditional dependencies for Python 3 (`#10 <https://github.com/ros-visualization/rqt_shell/issues/10>`_)
