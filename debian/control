@@ -1,0 +1,12 @@
+Source: ros-noetic-rqt-shell
+Section: misc
+Priority: optional
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://wiki.ros.org/rqt_shell
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rqt-shell
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-rospkg, ros-noetic-python-qt-binding (>= 0.2.19), ros-noetic-qt-gui, ros-noetic-qt-gui-py-common, ros-noetic-rqt-gui, ros-noetic-rqt-gui-py
+Description: rqt_shell is a Python GUI plugin providing an interactive shell.
