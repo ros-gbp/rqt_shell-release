@@ -1,3 +1,26 @@
+## rqt_shell (noetic) - 0.4.13-1
+
+The packages in the `rqt_shell` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic rqt_shell` on `Sat, 26 Apr 2025 22:31:24 -0000`
+
+The `rqt_shell` package was released.
+
+Version of package(s) in repository `rqt_shell`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_shell.git
+- release repository: https://github.com/ros-gbp/rqt_shell-release.git
+- rosdistro version: `0.4.11-1`
+- old version: `0.4.11-1`
+- new version: `0.4.13-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_shell (noetic) - 0.4.11-1
 
 The packages in the `rqt_shell` repository were released into the `noetic` distro by running `/usr/bin/bloom-release rqt_shell -r noetic -t noetic` on `Wed, 21 Apr 2021 06:21:25 -0000`
